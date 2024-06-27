@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="enter_your_name"> Name</string>
+    <string name="confirm">confirm</string>
+    <string name="update">Confirmed</string>
+    <string name="confirmed">Confirmed</string>
+    <string-array name="gender">
+        <item name="select">Select your gender</item>
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+        <item name="others">Other</item>
+    </string-array>
+</resources>
